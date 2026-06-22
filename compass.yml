@@ -1,0 +1,16 @@
+name: twenty-crm-g4
+id: ari:cloud:compass:752ee8d2-042d-435c-8bee-e942d7afcef2:component/b2177de5-7d3b-4376-b095-4513b1fb4710/12942530-f88e-40d4-bd26-fc2f433ff62a
+description: The open alternative to Salesforce, designed for AI.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Gestao-Quatro-Ponto-Zero/twenty-crm-g4
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
